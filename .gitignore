@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/r,macos
 # Edit at https://www.gitignore.io/?templates=r,macos
-
+**/dataset/*
 ### macOS ###
 # General
 .DS_Store
